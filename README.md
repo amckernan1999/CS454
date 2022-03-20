@@ -1,2 +1,2 @@
 # CS454
-Theory of Computation Spring 2021
+Theory of Computation Spring 2022
